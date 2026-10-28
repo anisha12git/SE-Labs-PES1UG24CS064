@@ -18,5 +18,3 @@ The work is organized into three commits:
 
 3\. Issue analysis and reflection
 
-
-
