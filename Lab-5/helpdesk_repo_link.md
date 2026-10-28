@@ -2,7 +2,9 @@
 
 
 
-\*\*GitHub repository:\*\* \[L5\_06\_it\_helpdesk](https://github.com/anisha12git/L5\_06\_it\_helpdesk)
+GitHub repository:
+
+https://github.com/anisha12git/L5\_06\_it\_helpdesk
 
 
 
