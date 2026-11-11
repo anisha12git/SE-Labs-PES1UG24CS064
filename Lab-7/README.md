@@ -38,7 +38,11 @@ Install the required libraries:
 
 
 
-`pip install hypothesis pytest`
+```bash
+
+pip install hypothesis pytest
+
+```
 
 
 
@@ -46,7 +50,11 @@ Run the fuzz tests:
 
 
 
-`python -m pytest test\_processor.py`
+```bash
+
+python -m pytest test\_processor.py
+
+```
 
 
 
